@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eurotrip</string>
+    <string name="action_settings">Settings</string>
+    <string name="madrid">Madrid</string>
+    <string name="barce">Barcelona</string>
+    <string name="paris">Paris</string>
+    <string name="london">Londres</string>
+    <string name="hotel_madrid">Hotel Apartments Arenal \nDireccion: Puerta del Sol-Plaza Mayor (Madrid)\n</string>
+    <string name="hotel_barce"><![CDATA[Hotel Apartamentos Aura Park Nord <br />Direccion: BARCELONA <br />]]></string>
+    <string name="hotel_paris"><![CDATA[Hotel Adagio Access Paris Vanves <br />Direccion: Porte de Versailles <br />]]></string>
+    <string name="hotel_london"><![CDATA[Hotel Gresham <br />Direccion: LONDON <br />]]></string>
+    <string name="viaje_madrid">VIAJE MADRID</string>
+    <string name="viaje_barce">VIAJE BARCELONA</string>
+    <string name="viaje_paris">VIAJE PARIS</string>
+    <string name="viaje_london">VIAJE LONDON</string>
+    <string name="atrac_madrid">ATRAC MADRID</string>
+    <string name="atrac_barce">ATRAC BARCE</string>
+    <string name="atrac_paris">ATRAC PARIS</string>
+    <string name="atrac_london">ATRAC LONDON</string>
+    <string name="comida_madrid">COMIDA MADRID</string>
+    <string name="comida_barce">COMIDA BARCE</string>
+    <string name="comida_paris">COMIDA PARIS</string>
+    <string name="comida_london">COMIDA LONDON</string>
+
+</resources>
